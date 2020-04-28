@@ -1,0 +1,81 @@
+body{	
+	text-align: left;
+	font-family: helvetica, sans-serif;
+	font-size: 14px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+	border: 1px solid #b4b9bf;
+	font-size: 35px;
+	text-decoration: none;
+	font-weight: bold;
+	margin: 10px 10px 10px 10px;
+	padding: 40px 10px 35px 20px;
+}
+
+h1 img {
+	float: right;
+	background-color: #ffffff;
+	border: 1px solid #b4b9bf;
+	padding: 7px 7px 7px 7px;
+	margin-right: 20px;
+}
+
+h2 {
+	font-size: 22px;
+	margin-left: 10px;
+	margin-top: 60px;
+}
+
+h3 {
+	font-size: 16px;
+	margin-left: 20px;
+	padding: 0px 0px 0px 0px;
+
+}
+
+li {
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 20px;
+}
+
+p {
+	margin-left: 15px;
+	margin-right: 200px;
+}
+
+div#contact {
+	float: right;
+	margin: 0px 0px 0px 0px;
+	border: 1px solid #b4b9bf;
+	padding: 10px 10px 10px 10px;
+}
+
+div#contact a {
+	text-decoration: none;
+}
+
+div#contact p {
+	text-decoration: none;
+	margin: 0px 0px 10px 0px;
+}
+
+div#software p {
+	margin: 15px 50px 0px 50px;
+}
+
+div#box {
+	border: 1px solid #b4b9bf;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 30px;
+	padding: 10px 10px 15px 10px;
+
+}
+
+
+
