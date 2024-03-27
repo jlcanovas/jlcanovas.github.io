@@ -1,0 +1,107 @@
+[
+    {
+    "title"     : "Towards a Framework Driven by Use Cases in Data-heterogeneous Environments",
+    "authors"   : "Ginés Molina Abril, Oriol Caralt, Jose A. Martínez and Javier Luis Cánovas Izquierdo.",
+    "reference" : "Jornadas de Ingeniería del Software y Bases de Datos, (JISBD),",
+    "year"      : "2023.",
+    "url"       : ""
+    },
+    {
+    "title"     : "Un recomendador para ayudar en la evaluación de la participación en foros de aulas virtuales",
+    "authors"   : "Javier Luis Cánovas Izquierdo, José Antonio Hernández López, Jesús Sánchez Cuadrado, David Bañeres.",
+    "reference" : "Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI),",
+    "year"      : "2023.",
+    "url"       : "https://easyconf.org/django/ecmp/media/ecm/articles/jenui-2023/JENUI_2023_paper_31_AZM3GkT.pdf"
+    },
+    {
+    "title"     : "Introducción de una herramienta OCL en la asignatura de Ingeniería de Requisitos",
+    "authors"   : "Loli Burgueño, Javier Luis Cánovas Izquierdo, Elena Planas, Jordi Cabot.",
+    "reference" : "Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI),",
+    "year"      : "2021.",
+    "url"       : "http://rua.ua.es/dspace/bitstream/10045/124948/1/JENUI_2021_004.pdf"
+    },
+    {
+    "title"     : "Una herramienta para la evaluación de debates en aulas virtuales",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Robert Clarisó, David Bañeres.",
+    "reference" : "Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI),",
+    "year"      : "2019.",
+    "url"       : "https://aenui.org/actas/pdf/JENUI_2019_040.pdf"
+    },
+    {
+    "title"     : "Retos Actuales en el Desarrollo de Lenguajes Específicos del Dominio",
+    "authors"   : "Javier Luis Cánovas Izquierdo,  Salvador Trujillo.",
+    "reference" : "Jornadas de Ingeniería del Software y Bases de Datos, (JISBD),",
+    "year"      : "2013.",
+    "url"       : "https://hal.inria.fr/docs/00/86/93/52/PDF/jisbd2013-CanovasTrujillo.pdf"
+    },
+    {
+    "title"     : "Parametrización de las transformaciones horizontales en el modelo de herradura",
+    "authors"   : "Jesús Sánchez Cuadrado, Orlando Ávila García, Javier Luis Cánovas Izquierdo, Adolfo Sánchez-Barbudo Herrera.",
+    "reference" : "Jornadas de Ingeniería del Software y Bases de Datos, (JISBD),",
+    "year"      : "2012.",
+    "url"       : "https://hal.inria.fr/docs/00/71/64/42/PDF/articulo.pdf"
+    },
+    {
+    "title"     : "Creación Colaborativa de Lenguajes Específicos de Dominio",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "Jornadas de Ingeniería del Software y Bases de Datos, (JISBD),",
+    "year"      : "2012.",
+    "url"       : "https://hal.inria.fr/docs/00/71/64/32/PDF/CreacionColaborativaDSLs-jlcanovas-jcabot.pdf"
+    },
+    {
+    "title"     : "ScheMoL: Un lenguaje especifico del dominio para extraer modelos de bases de datos relacionales",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Oscar Diaz, Gorka Puente, Jesus Garcia Molina.",
+    "reference" : "Póster en las Jornadas de Ingeniería del Software y Bases de Datos, (JISBD),",
+    "year"      : "2011.",
+    "url"       : ""
+    },
+    {
+    "title"     : "Una aplicación práctica de Architecture-Driven Modernization (ADM)",
+    "authors"   : "Javier Luis Cánovas Izquierdo and Jesús García Molina.",
+    "reference" : "XV Jornadas de Ingeniería del Software y Bases de Datos (JISBD),",
+    "year"      : "2010.",
+    "url"       : ""
+    },
+    {
+    "title"     : "Definición y ejecución de métricas en el contexto de ADM",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Belén Cruz Zapata and Jesús García Molina.",
+    "reference" : "VII Taller sobre Desarrollo de Software Dirigido por Modelos (DSDM),",
+    "year"      : "2010.",
+    "url"       : "papers/dsdm10-jlcanovas.pdf"
+    },
+    {
+    "title"     : "Extracción de modelos en una modernización basada en ADM",
+    "authors"   : "Javier Luis Cánovas Izquierdo and Jesús García Molina.",
+    "reference" : "VI Taller sobre Desarrollo de Software Dirigido por Modelos (DSDM),",
+    "year"      : "2009.",
+    "url"       : "papers/dsdm09-jlcanovas.pdf"
+    },
+    {
+    "title"     : "Gra2MoL: Una Herramienta para la Extracción de Modelos en Modernization de Software",
+    "authors"   : "Javier Luis Cánovas Izquierdo and Jesús García Molina.",
+    "reference" : "Póster en las Jornadas de Ingeniería del Software y Bases de Datos, (JISBD),",
+    "year"      : "2008.",
+    "url"       : "papers/jisbd09-jlcanovas.pdf"
+    },
+    {
+    "title"     : "DSLs para la extracción de modelos en modernización",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Óscar Sánchez Ramón, Jesús Sánchez Cuadrado and Jesús García Molina.",
+    "reference" : "V Taller sobre Desarrollo de Software Dirigido por Modelos (DSDM),",
+    "year"      : "2008.",
+    "url"       : "papers/dsdm08-jlcanovas.pdf"
+    },
+    {
+    "title"     : "Utilidad de las transformaciones modelo-modelo en la generación de código",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Óscar Sánchez Ramón, Jesús Sánchez Cuadrado and Jesús García Molina.",
+    "reference" : "XII Jornadas de Ingeniería del Software y Bases de Datos (JISBD),",
+    "year"      : "2007.",
+    "url"       : "papers/jisbd07-jlcanovas.pdf"
+    },
+    {
+    "title"     : "Un caso de estudio para la adopción de un BPMS",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Óscar Sánchez Ramón and Jesús García Molina.",
+    "reference" : "I Taller en Procesos de Negocio e Ingeniería Software (PNIS),",
+    "year"      : "2007.",
+    "url"       : "papers/pnis07-jlcanovas.pdf"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+    "title"     : "HFCommunity: An extraction process and relational database to analyze Hugging Face Hub data",
+    "authors"   : "Adem Ait, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "Science of Computer Programming, 234,",
+    "year"      : "2024.",
+    "url"       : "https://doi.org/10.1016/j.scico.2024.103079"
+    },
+    {
+    "title"     : "For a more Transparent Governance of Open Source",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "Communications of the ACM, 66(8), 32-34,",
+    "year"      : "2023.",
+    "url"       : "https://dl.acm.org/doi/10.1145/3570635"
+    },
+    {
+    "title"     : "ModelSet: a Labelled Dataset of Software Models for Machine Learning",
+    "authors"   : "José Antonio Hernández López, Javier Luis Cánovas Izquierdo, Jesús Sánchez Cuadrado.",
+    "reference" : "Science of Computer Programming,",
+    "year"      : "2023.",
+    "url"       : "https://www.sciencedirect.com/science/article/pii/S0167642323000916"
+    },
+    {
+    "title"     : "On the Analysis of Non-Coding Roles in Open Source Development. An Empirical Study of NPM Package Projects",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "Empirical Software Engineering, 27(1), 18,",
+    "year"      : "2022.",
+    "url"       : "https://link.springer.com/article/10.1007%2Fs10664-021-10061-x"
+    },
+    {
+    "title"     : "ModelSet: a dataset for machine learning in model-driven engineering",
+    "authors"   : "José Antonio Hernández López, Javier Luis Cánovas Izquierdo, Jesús Sánchez Cuadrado.",
+    "reference" : "Software and Systems Modeling, 21(3), 967-986,",
+    "year"      : "2022.",
+    "url"       : "https://link.springer.com/article/10.1007%2Fs10270-021-00929-3"
+    },
+    {
+    "title"     : "Online division of labour: emergent structures in Open Source Software",
+    "authors"   : "María J. Palazzi, Jordi Cabot, Javier Luis Cánovas Izquierdo, Albert Solé-Ribalta, Javier Borge-Holthoefer.",
+    "reference" : "Scientific Reports, 9, 13890,",
+    "year"      : "2019.",
+    "url"       : "https://www.nature.com/articles/s41598-019-50463-y"
+    },
+    {
+    "title"     : "Are CS Conferences (Too) Closed Communities?",
+    "authors"   : "Jordi Cabot, Javier Luis Cánovas Izquierdo, Valerio Cosentino.",
+    "reference" : "Communications of the ACM. 61(10)",
+    "year"      : "2018.",
+    "url"       : "https://doi.org/10.1145/3209580"
+    },
+    {
+    "title"     : "Gitana: A Software Project Inspector",
+    "authors"   : "Valerio Cosentino, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "Science of Computer Programming, 153:30-33",
+    "year"      : "2018",
+    "url"       : "https://authors.elsevier.com/c/1WDuYc7X4nQkA"
+    },
+    {
+    "title"     : "A Systematic Mapping Study of Software Development with GitHub",
+    "authors"   : "Valerio Cosentino, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "IEEE Access, 5:7173-7192",
+    "year"      : "2017",
+    "url"       : "https://ieeexplore.ieee.org/document/7887704/"
+    },
+    {
+    "title"     : "Collaboro: a collaborative (meta) modeling tool",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "PeerJ Computer Science, 2:e84",
+    "year"      : "2016",
+    "url"       : "https://peerj.com/articles/cs-84/"
+    },
+    {
+    "title"     : "Analysis of co-authorship graphs of CORE-ranked software conferences",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Valerio Cosentino, Jordi Cabot.",
+    "reference" : "Scientometrics, 109:3 1665–1693",
+    "year"      : "2016",
+    "url"       : "https://link.springer.com/article/10.1007/s11192-016-2136-6"
+    },
+    {
+    "title"     : "JSONDiscoverer: Visualizing the schema lurking behind JSON documents",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "Knowledge-Based Systems, 103: 52-55",
+    "year"      : "2016",
+    "url"       : "https://www.sciencedirect.com/science/article/pii/S0950705116300119"
+    },
+    {
+    "title"     : "Software Modernization Revisited: Challenges and Prospects",
+    "authors"   : "Hugo Bruneliere, Jordi Cabot, Javier Luis Cánovas Izquierdo, Leire Orue-Echevarria Arrieta, Oliver Strauß, Manuel Wimmer.",
+    "reference" : "IEEE Computer, 48(8): 76-80",
+    "year"      : "2015",
+    "url"       : "https://www.computer.org/csdl/mags/co/2015/08/mco2015080076-abs.html"
+    },
+    {
+    "title"     : "Popularity will NOT bring more contributions to your OSS project",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Valerio Cosentino, Jordi Cabot.",
+    "reference" : "Journal of Object Technology 14(4)",
+    "year"      : "2015",
+    "url"       : "https://www.jot.fm/contents/issue_2015_04/editorial.html"
+    },
+    {
+    "title"     : "Applying Model-Driven Engineering in Small Software Enterprises",
+    "authors"   : "Jesús Sánchez Cuadrado, Javier Luis Cánovas Izquierdo and Jesús García Molina.",
+    "reference" : "Science of Computer Programming, 89:176-198",
+    "year"      : "2014",
+    "url"       : "https://www.sciencedirect.com/science/article/pii/S0167642313001056"
+    },
+    {
+    "title"     : "Extracting Models from Source Code in Software Modernization",
+    "authors"   : "Javier Luis Canovas Izquierdo and Jesus Garcia Molina.",
+    "reference" : "Software and Systems Modeling, Model Evolution Special Issue, 13(2):713-734",
+    "year"      : "2014.",
+    "url"       : "https://link.springer.com/article/10.1007%2Fs10270-012-0270-z"
+    },
+    {
+    "title"     : "Harvesting models from Web 2.0 Databases",
+    "authors"   : "Oscar Diaz, Gorka Puente, Javier Luis Cánovas Izquierdo and Jesús García Molina.",
+    "reference" : "Software and Systems Modeling, Model-Driven Web Engineering Special Issue, 12(1):15-34",
+    "year"      : "2013.",
+    "url"       : "https://www.springerlink.com/content/02703489388027g2/"
+    },
+    {
+    "title"     : "API2MoL: Automating the building of bridges between APIs and Model-Driven Engineering",
+    "authors"   : "Javier Luis Canovas Izquierdo, Frederic Jouault, Jordi Cabot, Jesus Garcia Molina.",
+    "reference" : "Information and Software Technology, 54(3):257-273",
+    "year"      : "2012.",
+    "url"       : "https://www.sciencedirect.com/science/article/pii/S0950584911001984"
+    },
+    {
+    "title"     : "An Architecture-Driven Modernization tool for calculating metrics",
+    "authors"   : "Javier Luis Cánovas Izquierdo and Jesús García Molina.",
+    "reference" : "IEEE Software, Evolution Special Issue, 27(4):37-43",
+    "year"      : "July/August 2010.",
+    "url"       : "https://www.computer.org/portal/web/csdl/doi/10.1109/MS.2010.61"
+    }
+]

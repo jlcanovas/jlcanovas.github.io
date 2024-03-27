@@ -1,0 +1,310 @@
+[
+    {
+    "title"     : "A Tool for the Definition and Deployment of Platform-Independent Bots on Open Source Projects",
+    "authors"   : "Adem Ait, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Software Language Engineering (SLE)",
+    "year"      : "2023.",
+    "url"       : "https://dl.acm.org/doi/10.1145/3623476.3623524"
+    },
+    {
+    "title"     : "Bridging Workflow Automation Tools and EMF Modeling Ecosystems",
+    "authors"   : "Adiel Tuyishime, Francesco Basciani, Ludovico Iovino, Javier Luis Cánovas Izquierdo, Jordi Cabot and Alfonso Pierantonio.",
+    "reference" : "International Workshop on Modeling in Low-Code Development Platforms (LowCode)",
+    "year"      : "2023.",
+    "url"       : "https://ieeexplore.ieee.org/document/10350763/"
+    },
+    {
+    "title"     : "HFCommunity: A Tool to Analyze the Hugging Face Hub Community",
+    "authors"   : "Adem Ait, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Software Analysis, Evolution and Reengineering (SANER)",
+    "year"      : "2023.",
+    "url"       : "https://ieeexplore.ieee.org/document/10123660"
+    },
+    {
+    "title"     : "Exploratory Analysis of the Structural Evolution of public REST APIs",
+    "authors"   : "Nicolás Robles, Nicolás Potes, Kelly Garces Pernett, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "Ibero-American Conference on Software Engineering (CIbSE).",
+    "year"      : "2023.",
+    "url"       : "https://sol.sbc.org.br/index.php/cibse/article/view/24695"
+    },
+    {
+    "title"     : "Using the ModelSet dataset to support machine learning in model-driven engineering",
+    "authors"   : "José Antonio Hernández López, Javier Luis Cánovas Izquierdo, Jesús Sánchez Cuadrado.",
+    "reference" : "Tools and Demos Track at International Conference on Model Driven Engineering Languages and Systems Companion (MODELS).",
+    "year"      : "2022.",
+    "url"       : "https://doi.org/10.1145/3550356.3559096"
+    },
+    {
+    "title"     : "Modeling Linked Open Data",
+    "authors"   : "Adiel Tuyishime, Javier Luis Cánovas Izquierdo, Maria Teresa Rossi, Martina De Sanctis.",
+    "reference" : "STAF Workshops.",
+    "year"      : "2022.",
+    "url"       : "http://ceur-ws.org/Vol-3250/messpaper3.pdf"
+    },
+    {
+    "title"     : "An Empirical Study on the Survival Rate of GitHub Projects",
+    "authors"   : "Adem Ait, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Mining Software Repositories (MSR).",
+    "year"      : "2022.",
+    "url"       : "https://doi.org/10.1145/3524842.3527941"
+    },
+    {
+    "title"     : "A Model-Based Chatbot Generation Approach to Converse with Open Data Sources",
+    "authors"   : "Hamza Ed-Douibi, Javier Luis Cánovas Izquierdo, Gwendal Daniel, Jordi Cabot.",
+    "reference" : "International Conference on Web Engineering (ICWE).",
+    "year"      : "440-455, 2021.",
+    "url"       : "https://doi.org/10.1007/978-3-030-50578-3_39"
+    },
+    {
+    "title"     : "An Empirical Study on the Impact of Introducing a Modeling Tool in a Requirement Engineering Course",
+    "authors"   : "Loli Burgueño, Javier Luis Cánovas Izquierdo, Elena Planas.",
+    "reference" : "Educators Symposium at International Conference on Model Driven Engineering Languages and Systems (EduSymp@Models).",
+    "year"      : "712-720, 2021.",
+    "url"       : "https://doi.org/10.1109/MODELS-C53483.2021.00115"
+    },
+    {
+    "title"     : "An OpenAPI-Based Testing Framework to Monitor Non-functional Properties of REST APIs",
+    "authors"   : "Steven Bucaille, Javier Luis Cánovas Izquierdo, Hamza Ed-Douibi, Jordi Cabot.",
+    "reference" : "International Conference on Web Engineering (ICWE).",
+    "year"      : "533-537, 2020.",
+    "url"       : "https://doi.org/10.1007/978-3-030-50578-3_39"
+    },
+    {
+    "title"     : "WAPIml: Towards a Modeling Infrastructure for Web APIs",
+    "authors"   : "Hamza Ed-Douibi, Javier Luis Cánovas Izquierdo, Francis Bordeleau, Jordi Cabot.",
+    "reference" : "Tools and Demos Track at International Conference on Model Driven Engineering Languages and Systems Companion (MODELS).",
+    "year"      : "748-752, 2019.",
+    "url"       : "https://ieeexplore.ieee.org/document/8904508"
+    },
+    {
+    "title"     : "Analysis and modeling of the governance in general programming languages",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Software Language Engineering (SLE)",
+    "year"      : "2019.",
+    "url"       : "https://dl.acm.org/citation.cfm?doid=3357766.3359533"
+    },
+    {
+    "title"     : "Analyzing rich-club behavior in open source projects",
+    "authors"   : "Mattia Gasparini, Javier Luis Cánovas Izquierdo, Robert Clarisó, Marco Brambilla, Jordi Cabot.",
+    "reference" : "International Symposium on Open Collaboration (OpenSym)",
+    "year"      : "2019.",
+    "url"       : "https://dl.acm.org/citation.cfm?doid=3306446.3340825"
+    },
+    {
+    "title"     : "Automatic Generation of Test Cases for REST APIs: A Specification-Based Approach",
+    "authors"   : "Hamza Ed-Douibi, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Enterprise Distributed Object Computing Conference (EDOC)",
+    "year"      : "2018.",
+    "url"       : "https://doi.org/10.1109/EDOC.2018.00031"
+    },
+    {
+    "title"     : "APIComposer: Data-Driven Composition of REST APIs",
+    "authors"   : "Hamza Ed-Douibi, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "European Conference on Service-Oriented and Cloud Computing (ESOCC)",
+    "year"      : "2018.",
+    "url"       : "https://link.springer.com/chapter/10.1007%2F978-3-319-99819-0_12"
+    },
+    {
+    "title"     : "The role of foundations in open source projects",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Software Engineering: Software Engineering in Society (ICSE-SEIS)",
+    "year"      : "2018.",
+    "url"       : "https://dl.acm.org/citation.cfm?doid=3183428.3183438"
+    },
+    {
+    "title"     : "OpenAPItoUML: A Tool to Generate UML Models from OpenAPI Definitions",
+    "authors"   : "Hamza Ed-Douibi, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Web Engineering (ICWE)",
+    "year"      : "2018.",
+    "url"       : "https://link.springer.com/chapter/10.1007%2F978-3-319-91662-0_41"
+    },
+    {
+    "title"     : "An LSP infrastructure to build EMF language servers for web-deployable model editors",
+    "authors"   : "Roberto Rodríguez-Echeverría, Javier Luis Cánovas Izquierdo, Manuel Wimmer, Jordi Cabot.",
+    "reference" : "International Workshop on Model Driven Engineering Tools (MDETools)",
+    "year"      : "2018.",
+    "url"       : "https://ceur-ws.org/Vol-2245/mdetools_paper_3.pdf"
+    },
+    {
+    "title"     : "Towards a Language Server Protocol Infrastructure for Graphical Modeling",
+    "authors"   : "Roberto Rodríguez-Echeverría, Javier Luis Cánovas Izquierdo, Manuel Wimmer, Jordi Cabot.",
+    "reference" : "International Conference on Model Driven Engineering Languages and Systems (MODELS)",
+    "year"      : "2018.",
+    "url"       : "https://doi.org/10.1145/3239372.3239383"
+    },
+    {
+    "title"     : "Model-driven development of OData services: An application to relational databases",
+    "authors"   : "Hamza Ed-Douibi, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Research Challenges in Information Science (RCIS)",
+    "year"      : "2018.",
+    "url"       : "https://ieeexplore.ieee.org/document/8406667/"
+    },
+    {
+    "title"     : "A UML Profile for Privacy Enforcement",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Julián Salas.",
+    "reference" : "Workshop in Security for and by Model-Driven Engineering (SecureMDE)",
+    "year"      : "2018.",
+    "url"       : "https://doi.org/10.1007/978-3-030-04771-9_46"
+    },
+    {
+    "title"     : "Example-driven Web API Specification Discovery",
+    "authors"   : "Valerio Cosentino, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "European Conference on Modelling Foundations and Applications (ECMFA)",
+    "year"      : "2017.",
+    "url"       : "https://link.springer.com/chapter/10.1007%2F978-3-319-61482-3_16"
+    },
+    {
+    "title"     : "Towards a UML and IFML Mapping to GraphQL",
+    "authors"   : "Roberto Rodríguez-Echeverría, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Workshop on The Practice Of The Open Web (Practi-O-web) at ICWE.",
+    "year"      : "2017.",
+    "url"       : "https://link.springer.com/chapter/10.1007%2F978-3-319-74433-9_13"
+    },
+    {
+    "title"     : "A UML Profile for ODataWeb APIs",
+    "authors"   : "Hamza Ed-douibi, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Web Engineering (ICWE)",
+    "year"      : "2017.",
+    "url"       : "https://link.springer.com/chapter/10.1007%2F978-3-319-60131-1_28"
+    },
+    {
+    "title"     : "An Empirical Evaluation of the Maturity of the Eclipse Modeling Ecosystem",
+    "authors"   : "Javier Luis Canovas Izquierdo, Valerio Cosentino, Jordi Cabot.",
+    "reference" : "International Conference on Model Driven Engineering Languages and Systems (MODELS)",
+    "year"      : "2017.",
+    "url"       : "https://ieeexplore.ieee.org/document/8101275/"
+    },
+    {
+    "title"     : "Better call the crowd: using crowdsourcing to shape the notation of domain-specific languages",
+    "authors"   : "Marco Brambilla, Jordi Cabot, Javier Luis Cánovas Izquierdo, Andrea Mauri.",
+    "reference" : "International Conference on Software Language Engineering (SLE)",
+    "year"      : "2017.",
+    "url"       : "https://dl.acm.org/citation.cfm?doid=3136014.3136033"
+    },
+    {
+    "title"     : "MetaScience: an Holistic Approach for Research Modeling",
+    "authors"   : "Valerio Cosentino, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Conceptual Modeling (ER)",
+    "year"      : "2016.",
+    "url"       : "https://dx.doi.org/10.1007/978-3-319-46397-1_28"
+    },
+    {
+    "title"     : "Findings from GitHub: Methods, Datasets and Limitations",
+    "authors"   : "Valerio Cosentino, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Mining Software Repositories (MSR)",
+    "year"      : "2016.",
+    "url"       : "https://modeling-languages.com/wp-content/uploads/2016/03/2016-MSR.pdf"
+    },
+    {
+    "title"     : "EMF-REST: Generation of RESTful APIs from Models",
+    "authors"   : "Hamza Ed-douibi, Javier Luis Cánovas Izquierdo, Abel Gómez, Massimo Tisi, Jordi Cabot.",
+    "reference" : "ACM Symposium on Applied Computing (SAC)",
+    "year"      : "2016.",
+    "url"       : "https://www.researchgate.net/publication/301789631_EMF-REST_generation_of_RESTful_APIs_from_models"
+    },
+    {
+    "title"     : "Gitana: a SQL-based Git Repository Inspector",
+    "authors"   : "Valerio Cosentino, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Conceptual Modeling (ER 2015)",
+    "year"      : "2015.",
+    "url"       : "https://hal.inria.fr/hal-01187769/document"
+    },
+    {
+    "title"     : "Enabling the Definition and Enforcement of Governance Rules in Open Source Systems",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Software Engineering - Software Engineering in Society (ICSE-SEIS), 505-514",
+    "year"      : "2015.",
+    "url"       : "https://hal.inria.fr/hal-01115920/document"
+    },
+    {
+    "title"     : "Exploring the Use of Labels to Categorize Issues in Open-Source Software Projects",
+    "authors"   : "Jordi Cabot, Javier Luis Cánovas Izquierdo, Valerio Cosentino, Belén Rolandi.",
+    "reference" : "International Conference on Software Analysis, Evolution and Reenginering (SANER), 550-554.",
+    "year"      : "2015.",
+    "url"       : "https://ieeexplore.ieee.org/document/7081875"
+    },
+    {
+    "title"     : "GiLA: GitHub Label Analyzer",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Valerio Cosentino, Belén Rolandi, Alexandre Bergel, Jordi Cabot.",
+    "reference" : "International Conference on Software Analysis, Evolution and Reenginering (SANER), 479-483.",
+    "year"      : "2015.",
+    "url"       : "https://ieeexplore.ieee.org/document/7081860"
+    },
+    {
+    "title"     : "Assessing the Bus Factor of Git Repositories",
+    "authors"   : "Valerio Cosentino, Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Software Analysis, Evolution and Reenginering (SANER), 499-503.",
+    "year"      : "2015.",
+    "url"       : "https://ieeexplore.ieee.org/document/7081864"
+    },
+    {
+    "title"     : "A Model-Driven Approach to Generate External DSLs from Object-Oriented APIs",
+    "authors"   : "Valerio Cosentino, Massimo Tisi, Javier Luis Cánovas Izquierdo",
+    "reference" : "International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM), 423-435.",
+    "year"      : "2015.",
+    "url"       : "https://hal.inria.fr/hal-01094214/document"
+    },
+    {
+    "title"     : "Composing JSON-based Web APIs",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Jordi Cabot.",
+    "reference" : "International Conference on Web Engineering (ICWE).",
+    "year"      : "2014.",
+    "url"       : "https://hal.inria.fr/docs/00/97/49/38/PDF/29.pdf"
+    },
+    {
+    "title"     : "Engaging End-Users in the Collaborative Development of Domain-Specific Modelling Languages",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Jordi Cabot, Jesús J. López-Fernández, Jesús Sánchez Cuadrado, Esther Guerra and Juan de Lara.",
+    "reference" : "International Conference on Cooperative Design, Visualization and Engineering (CDVE), 101-110.",
+    "year"      : "2013.",
+    "url"       : "https://hal.inria.fr/docs/00/86/93/47/PDF/article.pdf"
+    },
+    {
+    "title"     : "Discovering Implicit Schemas in JSON Data",
+    "authors"   : "Javier Luis Cánovas Izquierdo and Jordi Cabot.",
+    "reference" : "International Conference on Web Engineering (ICWE), 68-83.",
+    "year"      : "2013.",
+    "url"       : "https://hal.inria.fr/docs/00/81/89/45/PDF/icwe2013-CanovasCabot.pdf"
+    },
+    {
+    "title"     : "Enabling the Collaborative Definition of DSMLs",
+    "authors"   : "Javier Luis Cánovas Izquierdo and Jordi Cabot.",
+    "reference" : "International Conference on Advanced Information Systems Engineering (CAiSE), 272-287.",
+    "year"      : "2013.",
+    "url"       : "https://hal.inria.fr/docs/00/81/89/43/PDF/caise2013-Canovas-Cabot.pdf"
+    },
+    {
+    "title"     : "Migrating Legacy Software to the Cloud with ARTIST",
+    "authors"   : "Alexander Bergmayr, Hugo Bruneliere, Javier Luis Cánovas Izquierdo, Jesús Gorroñogoitia, George Kousiouris, Dimosthenis Kyriazis, Philip Langer, Andreas Menychtas, Leire Orue-Echevarria Arrieta, Clara Pezuela, Manuel Wimmer.",
+    "reference" : "European Conference on Software Maintenance and Reengineering (CSMR), 465-468.",
+    "year"      : "2013.",
+    "url"       : ""
+    },
+    {
+    "title"     : "Community-Driven Language Development",
+    "authors"   : "Javier Luis Cánovas Izquierdo and Jordi Cabot.",
+    "reference" : "Models in Software Engineering Workshop at ICSE (MiSE),",
+    "year"      : "2012.",
+    "url"       : "https://ieeexplore.ieee.org/document/6226011/"
+    },
+    {
+    "title"     : "Gra2MoL put into practice",
+    "authors"   : "Javier Luis Cánovas Izquierdo and Jesús García Molina.",
+    "reference" : "Demonstration in the 6th European Conference on Model Driven Architecture (ECMFA),",
+    "year"      : "2010.",
+    "url"       : "papers/ecmfa2010-jlcanovas.pdf"
+    },
+    {
+    "title"     : "A domain specific language for extracting models in software modernization",
+    "authors"   : "Javier Luis Cánovas Izquierdo and Jesús García Molina.",
+    "reference" : "5th European Conference on Model Driven Architecture (ECMDA-FA),",
+    "year"      : "2009.",
+    "url"       : "https://link.springer.com/chapter/10.1007%2F978-3-642-02674-4_7"
+    },
+    {
+    "title"     : "Gra2MoL: A domain specific transformation language for bridging grammarware to modelware in software modernization",
+    "authors"   : "Javier Luis Cánovas Izquierdo, Jesús Sánchez Cuadrado and Jesús García Molina.",
+    "reference" : "II Workshop Model Driven Software Evolution (MoDSE),",
+    "year"      : "2008.",
+    "url"       : "papers/modse08-jlcanovas.pdf"
+    }
+]
